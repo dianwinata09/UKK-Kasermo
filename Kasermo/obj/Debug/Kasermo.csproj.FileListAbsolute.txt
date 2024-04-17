@@ -1,0 +1,150 @@
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Kasermo.exe.config
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Kasermo.exe
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Kasermo.pdb
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.AssemblyReference.cache
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.Properties.Resources.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.GenerateResource.cache
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.exe
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.pdb
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.Login.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.Admin.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.exe.licenses
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.CopyComplete
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.Kasir.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Memory.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\ZstdSharp.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Memory.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.Form_AddProduct.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.Form_AddUser.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.owner.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.dataP.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.OwnerPro.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\obj\Debug\Kasermo.OwnerTra.resources
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\stdole.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\itextsharp.dll
+C:\Users\Lenovo M.2\Desktop\dian winata\Kasermo\Kasermo\bin\Debug\itextsharp.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Kasermo.exe.config
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Kasermo.exe
+D:\ujikom\Kasermo\Kasermo\bin\Debug\BouncyCastle.Crypto.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.Shared.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Google.Protobuf.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\itextsharp.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\K4os.Hash.xxHash.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\MySql.Data.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Buffers.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.IO.Pipelines.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Memory.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Numerics.Vectors.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\ZstdSharp.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\stdole.dll
+D:\ujikom\Kasermo\Kasermo\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Google.Protobuf.pdb
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Google.Protobuf.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\itextsharp.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\K4os.Hash.xxHash.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\MySql.Data.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Buffers.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.IO.Pipelines.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Memory.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Numerics.Vectors.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ujikom\Kasermo\Kasermo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.AssemblyReference.cache
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.SuggestedBindingRedirects.cache
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.Admin.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.dataP.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.Form_AddProduct.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.Form_AddUser.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.Login.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.Kasir.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.owner.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.OwnerPro.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.OwnerTra.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.Properties.Resources.resources
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.GenerateResource.cache
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.exe.licenses
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.CoreCompileInputs.cache
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.csproj.CopyComplete
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.exe
+D:\ujikom\Kasermo\Kasermo\obj\Debug\Kasermo.pdb
+D:\ujikom\Kasermo\Kasermo\bin\Debug\Kasermo.pdb
